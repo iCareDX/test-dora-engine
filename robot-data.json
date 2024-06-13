@@ -1,0 +1,169 @@
+{
+  "quizAnswers": {},
+  "quizEntry": {
+    "f2f40133-482b-4cc7-9bd9-c2b48e328984": {
+      "name": "_quiz_master_",
+      "clientId": "f2f40133-482b-4cc7-9bd9-c2b48e328984",
+      "time": "2023-12-12T23:43:17.472Z",
+      "user_id": "player",
+      "signature": "",
+      "localhostToken": "5r0DipoJHc64Lv2ZLoiAaYk7JSHEiiZdoMCZCmw0vQztHwqCemQTv"
+    },
+    "511a42c9-6406-46a1-a33e-1e2ed2cfc7c1": {
+      "name": "dora-engine",
+      "clientId": "511a42c9-6406-46a1-a33e-1e2ed2cfc7c1",
+      "time": "2024-03-06T07:55:16.904Z",
+      "user_id": "none-user",
+      "signature": "dummy",
+      "localhostToken": "gKi5f6o9jNDzZxS7KwIHNIZNp8vQ5JYper6oKPATIcKHxw24PXPoH"
+    },
+    "eb26e70c-0812-4f92-af89-34362de9cc14": {
+      "name": "_quiz_master_",
+      "clientId": "eb26e70c-0812-4f92-af89-34362de9cc14",
+      "time": "2024-03-06T12:17:08.556Z",
+      "user_id": "player",
+      "signature": "",
+      "localhostToken": "S5G00egPgTB5WMxj30LHP8J7Q0dP2JlLb3moSCkS28Jm8925Rg5UO"
+    },
+    "ae035bb9-6ae5-4c08-97fe-cc60d7eec33c": {
+      "name": "dora-engine",
+      "clientId": "ae035bb9-6ae5-4c08-97fe-cc60d7eec33c",
+      "time": "2024-05-23T19:55:42.322Z",
+      "user_id": "player",
+      "signature": "",
+      "localhostToken": "KhrPy6ZgnbXnrgW07ztXHkcUiKj1EQvnyRMLGJQ7I1Cq2tKvcuI6u"
+    },
+    "4ad185e9-ff29-4c02-a37d-e69380c1aad6": {
+      "name": "_quiz_master_",
+      "clientId": "4ad185e9-ff29-4c02-a37d-e69380c1aad6",
+      "time": "2024-06-13T11:25:10.731Z",
+      "user_id": "player",
+      "signature": ""
+    },
+    "ce061513-432c-4f9f-bf0e-d446f6240104": {
+      "name": "_quiz_master_",
+      "clientId": "ce061513-432c-4f9f-bf0e-d446f6240104",
+      "time": "2024-06-05T12:33:50.786Z",
+      "user_id": "player",
+      "signature": ""
+    },
+    "f6862ae0-2f8b-460f-8973-25072a501a7b": {
+      "name": "_quiz_master_",
+      "clientId": "f6862ae0-2f8b-460f-8973-25072a501a7b",
+      "time": "2024-06-07T12:39:43.904Z",
+      "user_id": "player",
+      "signature": ""
+    },
+    "21b42d90-e05a-42b9-9435-9eece396672a": {
+      "name": "_quiz_master_",
+      "clientId": "21b42d90-e05a-42b9-9435-9eece396672a",
+      "time": "2024-06-05T12:34:55.861Z",
+      "user_id": "none-user",
+      "signature": "dummy"
+    },
+    "fdb54e68-44e0-44ae-a479-983ddaecb337": {
+      "name": "dora-engine",
+      "clientId": "fdb54e68-44e0-44ae-a479-983ddaecb337",
+      "time": "2024-06-05T14:17:13.245Z",
+      "user_id": "player",
+      "signature": "",
+      "localhostToken": "qE374AbI4Gf5ZQjgZnxGaob2S8XlCLWda51IgBJKvt0YCckbZguGl"
+    },
+    "70b21d05-c5d3-4b15-9056-15a9dcd7d158": {
+      "name": "_quiz_master_",
+      "clientId": "70b21d05-c5d3-4b15-9056-15a9dcd7d158",
+      "time": "2024-06-13T04:33:25.822Z",
+      "user_id": "player",
+      "signature": "",
+      "localhostToken": "natgiUW8u35ZIPicYLWvMZpsNP6UaHyRTwP9OeTrmlWILyJKxZX65"
+    }
+  },
+  "quizPayload": {
+    "others": {
+      "type": "quiz",
+      "action": "slide",
+      "photo": "images/launch-bot/message-screen.001.png",
+      "pages": [],
+      "area": null,
+      "localhostToken": "ZmiTlXTp6RZjUeItwOJtH2vdpwgA91wCCdz7kqm6Jl3Zy2oBiZrjv",
+      "speech": null,
+      "time": 60,
+      "pageNumber": 0,
+      "quizId": "クイズ",
+      "showSum": false,
+      "options": [
+        "no-time",
+        "no-title"
+      ],
+      "quizStartTime": "2024-06-13T09:30:20.196Z",
+      "speechButton": true,
+      "noSave": false
+    },
+    "_quiz_master_": {
+      "type": "quiz",
+      "action": "slide",
+      "photo": "images/launch-bot/message-screen.001.png",
+      "pages": [],
+      "area": null,
+      "localhostToken": "ZmiTlXTp6RZjUeItwOJtH2vdpwgA91wCCdz7kqm6Jl3Zy2oBiZrjv",
+      "speech": null,
+      "time": 60,
+      "pageNumber": 0,
+      "quizId": "クイズ",
+      "showSum": false,
+      "options": [
+        "no-time",
+        "no-title"
+      ],
+      "quizStartTime": "2024-06-13T09:30:20.196Z",
+      "speechButton": true,
+      "noSave": false
+    }
+  },
+  "quizList": {
+    "クイズ": {
+      "quiz": {
+        "おはなしメニュー": {
+          "choices": [
+            {
+              "value": "おみくじ"
+            },
+            {
+              "value": "何ができますか"
+            },
+            {
+              "value": "〇〇〇は何ですか"
+            },
+            {
+              "value": "〇〇〇の話をしてください"
+            },
+            {
+              "value": "〇〇〇を知ってますか"
+            },
+            {
+              "value": "〇〇〇を教えてください"
+            },
+            {
+              "value": "クイズを出して"
+            },
+            {
+              "value": "診断して"
+            }
+          ],
+          "answers": [
+            "おみくじ"
+          ]
+        }
+      }
+    }
+  },
+  "voice": {
+    "level": 100,
+    "threshold": 2000
+  },
+  "autoStart": {
+    "username": "dora-engine",
+    "filename": "launch-bot.dora"
+  },
+  "recordingTime": 0
+}
