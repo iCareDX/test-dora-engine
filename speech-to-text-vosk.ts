@@ -108,15 +108,15 @@ function Speech() {
     writing_timer.start(() => {
       speechEmitter.writing = false
       if (voskSpeechClient) {
-	const result = recognizer.finalResult()
-	Log.info(`f_result ${JSON.stringify(result, null, "  ")}`)
-	const result_text = result["text"].replace(/\s+/g,'')
-	if (result_text) {      
-	  emitResult(
-	    result_text,
-	  )
-	}
-	//recognizer.reset()
+	      const result = recognizer.finalResult()
+	      Log.info(`f_result ${JSON.stringify(result, null, "  ")}`)
+	      const result_text = result["text"].replace(/\s+/g,'')
+	      if (result_text) {      
+	        emitResult(
+	          result_text,
+	        )
+	      }
+	      //recognizer.reset()
 
         end_recording(true)
       } else {
